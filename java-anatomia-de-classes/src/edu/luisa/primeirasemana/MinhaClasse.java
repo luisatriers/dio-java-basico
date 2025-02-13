@@ -3,7 +3,7 @@ package edu.luisa.primeirasemana;
 public class MinhaClasse {
     public static void main(String[] args) {
         
-        final String BR = "Brasil"; //Constantes (final) são declaradas em UPPERCASE [boas práticas]
+        final String BR = "Brasil"; //Constantes (com a palavra reservada final na frente do tipo) são declaradas em UPPERCASE [boas práticas]
 
         //caracteres que podem ser utilizados em variaveis -> $, _, letras e numeros de 0 a 9
         
